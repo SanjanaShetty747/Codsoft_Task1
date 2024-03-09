@@ -1,0 +1,113 @@
+.main{
+    background:url("https://www.shutterstock.com/shutterstock/photos/1497101021/display_1500/stock-photo-sports-equipment-background-with-a-football-basketball-baseball-soccer-tennis-and-golf-ball-1497101021.jpg");
+    filter:brightness(100%);
+    background-repeat: no-repeat;
+    height:550px;
+    background-size: cover;
+}
+
+.sign{
+    width:max-content;
+    border-radius: 20px;
+    background-color:rgb(116, 120, 121);
+    padding:10px;
+    margin-left: 820px;
+    font:bold;
+}
+button{
+    padding:20px;
+    border-radius: 10px;
+    background-color:brown;
+    color:white;
+    font-size: 1em;
+    margin-left: 20px;
+    
+}
+
+a:hover{
+    color:rgb(72, 255, 0);
+}
+.navi a:hover{
+    color:rgb(240, 96, 39);
+}
+.navi{
+    
+    background-color:#6d6b6b;
+    border:black;
+    
+}
+.navi a{
+    color:white;
+    float:left;
+    display:block;
+    padding:14px 20px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.5em;
+    border-right: 1px solid black;
+}
+footer a{
+    font-size: 3em;
+}
+p{
+    font-size: 2em;
+}
+h2{
+    font-size: 3em;
+}
+.main h1{
+    font-size: 3.5em;
+}
+footer h1{
+    margin-top:30px;
+    text-align: center;
+    font-size: 2.5em;
+}
+.main header{
+    display:flex;
+    width:100%;
+    margin-left:20px;
+    
+}
+body{
+    user-select: none;
+}
+.footdiv{
+    display:flex;
+}
+footer{
+    background-color: rgb(136, 134, 134);
+    color:white;
+    
+}
+section{
+    text-align: center;
+    padding: 40px;
+}
+.main2 .div2{
+    background:url("https://4.imimg.com/data4/CC/NC/MY-6185961/silver-sports-trophy-500x500.jpg");
+    width:900px;
+    background-repeat: no-repeat;
+}
+button:hover{
+    background-color:transparent;
+    color:black;
+}
+
+.main2 .div3{
+    width:1000px;
+    text-align: left;
+    
+}
+.main2{
+    display:flex;
+    height:500px;
+}
+header img{
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    
+    
+}
